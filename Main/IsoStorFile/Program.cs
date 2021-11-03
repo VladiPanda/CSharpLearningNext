@@ -25,7 +25,6 @@ namespace IsoStorFile
             StreamWriter userWriter = new StreamWriter(userStream);
             userWriter.WriteLine("User Prefs... ");
             userWriter.Close();
-            
         }
     }
 }
