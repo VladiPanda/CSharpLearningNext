@@ -166,6 +166,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versioning_07", "Versioning
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Versioning_08", "Versioning_08\Versioning_08.csproj", "{604350A5-E662-473E-9AFA-669229BC638A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdHocPolymorphism", "AdHocPolymorphism\AdHocPolymorphism.csproj", "{97E1A554-0FA8-4A39-A14A-A3CADD8D3CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdHocPolymorphism_01", "AdHocPolymorphism_01\AdHocPolymorphism_01.csproj", "{1A3492EC-40D3-463A-938C-7B089EB46802}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -504,5 +508,13 @@ Global
 		{604350A5-E662-473E-9AFA-669229BC638A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{604350A5-E662-473E-9AFA-669229BC638A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{604350A5-E662-473E-9AFA-669229BC638A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E1A554-0FA8-4A39-A14A-A3CADD8D3CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E1A554-0FA8-4A39-A14A-A3CADD8D3CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E1A554-0FA8-4A39-A14A-A3CADD8D3CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E1A554-0FA8-4A39-A14A-A3CADD8D3CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3492EC-40D3-463A-938C-7B089EB46802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3492EC-40D3-463A-938C-7B089EB46802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3492EC-40D3-463A-938C-7B089EB46802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3492EC-40D3-463A-938C-7B089EB46802}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
