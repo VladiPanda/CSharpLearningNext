@@ -35,7 +35,7 @@ namespace Hashtable_05
         static void Main()
         {
             var duplicates = new Hashtable();
-
+            
             var key1 = new Fish("Herring");
             var key2 = new Fish("Herring");
 
